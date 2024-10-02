@@ -70,7 +70,7 @@ This project is primarily a demonstration and is not actively seeking contributi
 
 ## Acknowledgments
 
-* [OpenAI](https://openai.com) for providing the API used in this project.
+* [OpenAI](https://openai.com) for providing the API used in this project. [Read all about OpenAI's Vector Embeddings](https://openai.com/index/introducing-text-and-code-embeddings/)
 * [matplotlib](https://matplotlib.org/) for providing the charting library.
-* [PyroPrompts](https://pyroprompts.com) for providing the need and inspiration.
+* [PyroPrompts](https://pyroprompts.com) for providing the need and inspiration. See [full blog post on PyroPrompts](https://blog.pyroprompts.com/post/a762f282-vector-embeddings-simplified/).
 * The developers of the libraries used in this project.
